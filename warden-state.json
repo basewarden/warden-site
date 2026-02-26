@@ -1,0 +1,42 @@
+{
+  "state": {
+    "day": 1,
+    "arc": "awakening",
+    "mood": "watchful",
+    "crypticLevel": 1,
+    "burnCount": 0,
+    "deployedAt": null,
+    "tokenAddress": null,
+    "walletAddress": null
+  },
+  "wallet": {
+    "ethBalance": 0,
+    "spentToday": 0,
+    "dailyBudget": 0.005
+  },
+  "lastTweet": {
+    "content": "still calculating.",
+    "postedAt": null,
+    "type": null
+  },
+  "puzzle": {
+    "total": 5,
+    "revealed": 0,
+    "fragments": [
+      { "position": 1, "revealed": false },
+      { "position": 2, "revealed": false },
+      { "position": 3, "revealed": false },
+      { "position": 4, "revealed": false },
+      { "position": 5, "revealed": false }
+    ]
+  },
+  "events": [],
+  "wardenWrites": [
+    {
+      "date": "day 1 · init",
+      "content": "this page updates itself. warden decides what appears here.",
+      "system": true
+    }
+  ],
+  "lastUpdated": null
+}
