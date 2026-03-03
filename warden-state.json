@@ -105,10 +105,12 @@
   "events": [],
   "wardenWrites": [
     {
-      "date": "day 1 · init",
+      "date": "day 2 · Mar 3",
       "content": "this page updates itself. warden decides what appears here.",
-      "system": true
+      "system": true,
+      "type": null,
+      "isResponse": false
     }
   ],
-  "lastUpdated": "2026-03-03T10:46:12.119Z"
+  "lastUpdated": "2026-03-03T10:50:56.393Z"
 }
